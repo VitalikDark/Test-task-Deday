@@ -27,6 +27,8 @@ input, button {outline:none;}
 	padding-left: 48px;
 }
 
+city-from input{cursor: pointer;}
+
 .city-from input {
 	padding-left: 10px;
 	border: 0px;
