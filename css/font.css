@@ -1,0 +1,25 @@
+/*Myriad Pro
+fira sans
+ProximaNova Regular
+AvenirNextCyr Medium*/
+
+
+@font-face {
+  font-family: MyriadPro;
+  src: url("../fonts/MyriadPro-Regular.ttf");
+}
+
+@font-face {
+  font-family: FiraSans;
+  src: url("../fonts/Fira Sans bold italic.ttf");
+}
+
+@font-face {
+  font-family: ProximaNova;
+  src: url("../fonts/ProximaNova Regular.ttf");
+}
+
+@font-face {
+  font-family: AvenirNextcyrMedium;
+  src: url("../fonts/avenirnextcyr-medium.ttf");
+}
