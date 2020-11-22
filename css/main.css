@@ -27,7 +27,7 @@ input, button {outline:none;}
 	padding-left: 48px;
 }
 
-city-from input{cursor: pointer;}
+.city-from input{cursor: pointer;}
 
 .city-from input {
 	padding-left: 10px;
@@ -46,6 +46,10 @@ city-from input{cursor: pointer;}
 	line-height: 25px;
 }
 
+
+.data-start img {
+	cursor: pointer;
+}
 
 .data__text {
 	color: #383838;
@@ -67,6 +71,8 @@ city-from input{cursor: pointer;}
 .data-start img {
 	margin-right: 10px;
 }
+
+.data-end img {cursor: pointer;}
 
 .point {
 	width: 2px;
